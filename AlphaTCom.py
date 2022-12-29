@@ -1,8 +1,8 @@
 '''
-    专门为处理聚宽-Alpha-T相关业务数据的包
-    主要提供基础的业务函数
-    editor：zhanjialin
-    time:20190330
+    a package to process HFT transactions data 
+    providing basic functions
+    editor：Lun Du
+    time:20190730
 '''
 
 import os,shutil
